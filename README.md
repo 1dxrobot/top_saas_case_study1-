@@ -1,8 +1,3 @@
-Here’s a clean, professional **README.md** you can use for your **Data Analytics Internship / Project** (GitHub or submission).
-You can copy-paste directly.
-
----
-
 # 📊 Data Analytics Project
 
 ## 📌 Overview
