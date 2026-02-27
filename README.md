@@ -67,6 +67,7 @@ This project focuses on applying **Data Analytics concepts using Python** to und
 ## 👩‍💻 Author
 
 **Sanjay.S**
+
 Data Analytics Intern | Python Enthusiast
 
 ---
